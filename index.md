@@ -117,11 +117,11 @@ puts "Cloud: #{cloud[:hp]} HP, Sephiroth: #{sephiroth[:hp]} HP"
   - level 2 item
 - level 1 item
 
-### Small image
+### Me in my "Onikuma" zekken
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Onikuma](/assets/images/Onikuma.jpg)
 
-### Large image
+### My first time fighting Alexander Bennett PhD (7th Dan, Kyoshi)
 
 ![Nito-Ryu Kendo](/assets/images/Kelly_Nito.jpg)
 
@@ -130,13 +130,13 @@ puts "Cloud: #{cloud[:hp]} HP, Sephiroth: #{sephiroth[:hp]} HP"
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Kratos</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>early-to-mid 500s B.C.E</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>Sparta, Greece</dd>
 <dt>Color</dt>
-<dd>Green</dd>
+<dd>White; ash fused to his skin</dd>
 </dl>
 
 ```
