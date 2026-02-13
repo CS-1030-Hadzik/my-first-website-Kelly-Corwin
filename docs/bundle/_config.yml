@@ -1,10 +1,14 @@
 title: Kelly's CS 1030 Website
 email: kellycorwin@mail.weber.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm the dude playin' a dude disquised as another dude... 
-  I'm also a Software Engineer pursinging a CS major at Weber State University.
-  I'm a married father of three boys, avid gamer, and practionor of Kendo and Iaido. 
-logo: "/assets/images/logo.png"
+  When I first started practicing Kendo and Iaido it was with a layman's enthusiasm.
+  Life caught up and I stopped attending, but I picked up my sword again in earnest in 2015. 
+  I began training regularly, practiced at home during the pandemic, and now I'm leading other students. 
+  At the moment I hold the rank of Nidan, equivalent to 2nd degree black-belt in other disiplines. 
+  This past summer I attended a seminar where I got to meet Dr. Alexander Bennett and began practicing
+  a two sword style called Nito-Ryu inspired by Miyamoto Musashi. I have taken to it quite well
+  and my goal is to compete in my next tournament using this style to further hone my skills. 
+logo: "/assets/images/Onikuma.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
