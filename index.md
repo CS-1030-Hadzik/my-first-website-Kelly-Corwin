@@ -5,7 +5,7 @@ title: "Kelly's CS 1030 Website"
 
 This is my website
 
-[LinkedIn](www.linkedin.com/in/kelly-corwin-36449a165).
+[LinkedIn](https://www.linkedin.com/in/kelly-corwin-36449a165/).
 
 There should be whitespace between paragraphs.
 
@@ -13,13 +13,25 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # About Me
 
-  I'm the dude playin' a dude disquised as another dude... 
-  I'm also a Software Engineer pursinging a CS major at Weber State University.
-  I'm a married father of three boys, avid gamer, and practionor of Kendo and Iaido.
+I'm the dude playin' a dude disquised as another dude... 
+I'm also a Software Engineer pursinging a CS major at Weber State University.
+I'm a married father of three boys, avid gamer, and practionor of Kendo and Iaido.
 
 ## Header 2
 
-> You didn't come into this world... you came out of it. Just as an apple tree apples, the universe peoples, and you are one of those peoplings. You're not a stranger wandering through a foreign land. You are this place, its eyes, its thoughts, its wonderings about itself. Most of us were brought up to feel separate as though we're tiny egos trapped inside these bags of skin looking out at a world that's over there full of objects and others, but that is a trick of perception. An illusion of language and labelling. In reality, there's no line where you stop and the world begins. You are continuous with it like a wave is with the ocean. Look at a flame. Does it have a boundary, a fixed shape? It's a process, a happening, a flow. So are you, and you’re not a static thing. You are a verb disguised as a noun. A whirl of consciousness, feelings, memories, all shimmering like light on water. When you were born the universe didn't make a mistake. It wasn't trying to test you, fix you, or mold you into something better. It was expressing itself as you, and what a peculiar, delightful, and intricate expression you are.  – Alan Watts
+> " You didn't come into this world... you came out of it. Just as an apple tree apples, 
+> the universe peoples, and you are one of those peoplings. You're not a stranger wandering 
+> through a foreign land. You are this place, its eyes, its thoughts, its wonderings about 
+> itself. Most of us were brought up to feel separate as though we're tiny egos trapped inside 
+> these bags of skin looking out at a world that's over there full of objects and others, but 
+> that is a trick of perception. An illusion of language and labelling. In reality, there's no 
+> line where you stop and the world begins. You are continuous with it like a wave is with the 
+> ocean. Look at a flame. Does it have a boundary, a fixed shape? It's a process, a happening, 
+> a flow. So are you, and you’re not a static thing. You are a verb disguised as a noun. 
+> A whirl of consciousness, feelings, memories, all shimmering like light on water. When you 
+> were born the universe didn't make a mistake. It wasn't trying to test you, fix you, or mold 
+> you into something better. It was expressing itself as you, and what a peculiar, delightful, 
+> and intricate expression you are.                                               – Alan Watts
 
 ### Header 3
 
