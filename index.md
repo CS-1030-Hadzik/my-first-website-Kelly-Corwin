@@ -17,21 +17,21 @@ I'm the dude playin' a dude disquised as another dude...
 I'm also a Software Engineer currently pursinging a CS major at Weber State University.
 Married father of three boys, avid retro and AAA gamer, and practionor of both Kendo and Iaido.
 
-## Favorite Quote
+## Quote from the late, great Alan Watts
 
-> "You didn't come into this world... you came out of it. Just as an apple tree apples, 
-> the universe peoples, and you are one of those peoplings. You're not a stranger wandering 
-> through a foreign land. You are this place, its eyes, its thoughts, its wonderings about 
-> itself. Most of us were brought up to feel separate as though we're tiny egos trapped inside 
-> these bags of skin looking out at a world that's over there full of objects and others, but 
-> that is a trick of perception. An illusion of language and labelling. In reality, there's no 
-> line where you stop and the world begins. You are continuous with it like a wave is with the 
-> ocean. Look at a flame. Does it have a boundary, a fixed shape? It's a process, a happening, 
-> a flow. So are you, and you’re not a static thing. You are a verb disguised as a noun. 
-> A whirl of consciousness, feelings, memories, all shimmering like light on water. When you 
-> were born the universe didn't make a mistake. It wasn't trying to test you, fix you, or mold 
-> you into something better. It was expressing itself as you, and what a peculiar, delightful, 
-> and intricate expression you are."                                         -- Alan Watts
+> "You didn't come into this world... you came out of it. 
+Just as an apple tree apples, the universe peoples, and you are one of those peoplings. 
+Most of us feel seperate, like tiny egos trapped inside these bags of skin.
+Looking out at a world that's over there full of objects and others, but that's a trick of perception. 
+In reality, there's no line where you stop and the world begins. 
+You are continuous with it like a wave is with the ocean. 
+It's a process, a happening, a flow, and so are you.
+You are not a static thing, you are a verb disguised as a noun. 
+A whirl of consciousness, feelings, memories, all shimmering like light on water. 
+When you were born the universe didn't make a mistake. 
+It wasn't trying to test you, fix you, or mold you into something better. 
+It was expressing itself as you, and what a peculiar, delightful, and intricate expression you are.
+When you look at yourself in this way perhaps you'll realize the miracle you've always been."
 
 ### JavaScript and Ruby examples
 
@@ -70,9 +70,9 @@ puts "Cloud: #{cloud[:hp]} HP, Sephiroth: #{sephiroth[:hp]} HP"
 
 ##### Additional Facts
 
-1.  Samurai represent honor and discipline.
-2.  Knights represent loyalty and courage. 
-3.  Vikings don't give a crap and take all your stuff anyway. 
+1.  "The Hunt For Red October" deserved an Oscar for more than just sound design...
+2.  The likelihood of being born on February 29th is 0.068% which makes me feel so special...
+3.  Lobsters would live forever if it weren't for the amount of energy necessary for them to molt... 
 
 ###### Header 6
 
@@ -123,7 +123,7 @@ puts "Cloud: #{cloud[:hp]} HP, Sephiroth: #{sephiroth[:hp]} HP"
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Nito-Ryu Kendo](/assets/images/Kelly_Nito.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
