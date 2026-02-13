@@ -17,9 +17,9 @@ I'm the dude playin' a dude disquised as another dude...
 I'm also a Software Engineer currently pursinging a CS major at Weber State University.
 Married father of three boys, avid retro and AAA gamer, and practionor of both Kendo and Iaido.
 
-## Header 2
+## Favorite Quote
 
-> " You didn't come into this world... you came out of it. Just as an apple tree apples, 
+> "You didn't come into this world... you came out of it. Just as an apple tree apples, 
 > the universe peoples, and you are one of those peoplings. You're not a stranger wandering 
 > through a foreign land. You are this place, its eyes, its thoughts, its wonderings about 
 > itself. Most of us were brought up to feel separate as though we're tiny egos trapped inside 
@@ -31,13 +31,12 @@ Married father of three boys, avid retro and AAA gamer, and practionor of both K
 > A whirl of consciousness, feelings, memories, all shimmering like light on water. When you 
 > were born the universe didn't make a mistake. It wasn't trying to test you, fix you, or mold 
 > you into something better. It was expressing itself as you, and what a peculiar, delightful, 
-> and intricate expression you are.                                               – Alan Watts
+> and intricate expression you are."                                         -- Alan Watts
 
-### Header 3
+### JavaScript and Ruby examples
 
 ```js
-// Javascript code with syntax highlighting.
-// Simplified Combat
+// FF7 Nibelheim Flashback Combat
 const cloud = { name: "Cloud", hp: 500, attack: 50 };
 const sephiroth = { name: "Sephiroth", hp: 1000, attack: 80 };
 function attack(attacker, target) 
@@ -50,8 +49,7 @@ console.log(`Cloud: ${cloud.hp} HP, Sephiroth: ${sephiroth.hp} HP`);
 ```
 
 ```ruby
-# Ruby code with syntax highlighting
-# Simplified Combat
+# FF7 Nibelheim Flashback Combat
 cloud = { name: "Cloud", hp: 500, attack: 50 }
 sephiroth = { name: "Sephiroth", hp: 1000, attack: 80 }
 def attack(attacker, target)
@@ -64,17 +62,17 @@ attack(sephiroth, cloud)
 puts "Cloud: #{cloud[:hp]} HP, Sephiroth: #{sephiroth[:hp]} HP"
 ```
 
-#### Header 4
+#### Facts
 
 *   There are those that make things happen.
 *   There are those that watch things happen. 
 *   There are those that wonder "What the #@$%! happened?".
 
-##### Header 5
+##### Additional Facts
 
-1.  Samurai care about honor.
-2.  Knights care about sovereignty. 
-3.  Vikings don't care and take all your stuff anyway. 
+1.  Samurai represent honor and discipline.
+2.  Knights represent loyalty and courage. 
+3.  Vikings don't give a crap and take all your stuff anyway. 
 
 ###### Header 6
 
