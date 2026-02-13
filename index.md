@@ -14,8 +14,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # About Me
 
 I'm the dude playin' a dude disquised as another dude... 
-I'm also a Software Engineer pursinging a CS major at Weber State University.
-I'm a married father of three boys, avid gamer, and practionor of Kendo and Iaido.
+I'm also a Software Engineer currently pursinging a CS major at Weber State University.
+Married father of three boys, avid retro and AAA gamer, and practionor of both Kendo and Iaido.
 
 ## Header 2
 
@@ -37,30 +37,44 @@ I'm a married father of three boys, avid gamer, and practionor of Kendo and Iaid
 
 ```js
 // Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+// Simplified Combat
+const cloud = { name: "Cloud", hp: 500, attack: 50 };
+const sephiroth = { name: "Sephiroth", hp: 1000, attack: 80 };
+function attack(attacker, target) 
+{ target.hp -= attacker.attack;
+  console.log(`${attacker.name} attacks for ${attacker.attack} damage!`);}
+console.log("BATTLE START");
+attack(cloud, sephiroth);
+attack(sephiroth, cloud);
+console.log(`Cloud: ${cloud.hp} HP, Sephiroth: ${sephiroth.hp} HP`);
 ```
 
 ```ruby
 # Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
+# Simplified Combat
+cloud = { name: "Cloud", hp: 500, attack: 50 }
+sephiroth = { name: "Sephiroth", hp: 1000, attack: 80 }
+def attack(attacker, target)
+  target[:hp] -= attacker[:attack]
+  puts "#{attacker[:name]} attacks for #{attacker[:attack]} damage!"
 end
+puts "BATTLE START"
+attack(cloud, sephiroth)
+attack(sephiroth, cloud)
+puts "Cloud: #{cloud[:hp]} HP, Sephiroth: #{sephiroth[:hp]} HP"
 ```
 
 #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   There are those that make things happen.
+*   There are those that watch things happen. 
+*   There are those that wonder "What the #@$%! happened?".
 
 ##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Samurai care about honor.
+2.  Knights care about sovereignty. 
+3.  Vikings don't care and take all your stuff anyway. 
 
 ###### Header 6
 
