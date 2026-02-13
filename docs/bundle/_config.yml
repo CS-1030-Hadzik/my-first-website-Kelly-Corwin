@@ -4,7 +4,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   I'm the dude playin' a dude disquised as another dude... 
   I'm also a Software Engineer pursinging a CS major at Weber State University.
   I'm a married father of three boys, avid gamer, and practionor of Kendo and Iaido. 
-  www.linkedin.com/in/kelly-corwin-36449a165
 logo: "/assets/images/logo.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
