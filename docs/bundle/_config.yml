@@ -8,7 +8,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This past summer I attended a seminar where I got to meet Alexander Bennett PhD and began practicing
   a two sword style called Nito-Ryu inspired by Miyamoto Musashi. I have taken to it quite well
   and my goal is to compete in my next tournament using this style to further hone my skills. 
-logo: "/docs/bundle/assets/images/Kelly_Corwin.jpeg"
+logo: "/assets/images/Kelly_Corwin.jpeg"
 baseurl: "my-first-website-Kelly-Corwin" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
