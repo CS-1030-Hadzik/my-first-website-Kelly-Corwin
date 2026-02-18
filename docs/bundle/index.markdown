@@ -6,7 +6,7 @@ title: "Kelly's Kendo Journey"
 This website is dedicated to the many great teachers and fellow kenshi I've had the honor of crossing swords with. Domo arigato gozaimasu.
 ![Menjo]({{ "/assets/images/Menjo.jpeg" | relative_url }})
 
-[LinkedIn](https://www.linkedin.com/in/kelly-corwin-36449a165/).
+[My_Nidan_Exam](https://youtu.be/GbLVNVQrdx4?si=h-ko71h8eOXg4G-y).
 
 “Today is victory over yourself of yesterday; tomorrow is your victory over lesser men.”
 ― Miyamoto Musashi, 'Gorin no Sho' The Book of Five Rings
@@ -82,40 +82,6 @@ end
 | Kikai (Opportunity)    | Kisei (Spirit)         |
 | Tai-sabaki (Movement)  | Datotsu-bui (Target)   |
 | Tenouchi (Grip)        | Hasuji (Cutting Angle) |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### I am the "Onikuma" when doing Nito-Ryu (Two Sword Style)
 

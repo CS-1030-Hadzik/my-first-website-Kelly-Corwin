@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
+title: What is the purpose of Kendo?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The purpose of Kendo ("Way of the Sword") is to discipline the human character. The modern world doesn't need swordsman, but it does need people of moral character. Through Kendo you mold the mind and body, and cultivate a vigorous spirit. It emphasizes a lifelong asperation to self-cultivate, respect others, to be courtious and sincere, and aim to making meaninful impacts on others so that they too may do the same.  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+![ZenBuKan]({{ "/assets/images/ZBK_Zekken_v2.png" | relative_url }})
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Valuable resources:
+[AJKF(Japanese)](https://www.kendo.or.jp/en/)
+[AUSKF(English)](https://www.auskf.org/)
+[ZenBuKan](https://zenbukanutah.com/)
 
-
-[jekyll-organization]: https://github.com/jekyll
