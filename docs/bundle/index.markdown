@@ -4,6 +4,7 @@ title: "Kelly's Kendo Journey"
 ---
 
 This website is dedicated to the many great teachers and fellow kenshi I've had the honor of crossing swords with. Domo arigato gozaimasu.
+![Menjo]({{ "/assets/images/Menjo.jpeg" | relative_url }})
 
 [LinkedIn](https://www.linkedin.com/in/kelly-corwin-36449a165/).
 
@@ -14,8 +15,6 @@ This website is dedicated to the many great teachers and fellow kenshi I've had 
 
 The broad stroke is that I'm a Software Engineer currently pursinging a CS major at Weber State University.
 Happily married father of three boys, avid retro and AAA gamer, and practionor of both Kendo and Iaido.
-
-![Menjo]({{ "/assets/images/Menjo.jpeg" | relative_url }})
 
 ## One of many great quotes from Alan Watts
 
@@ -122,23 +121,25 @@ end
 
 ![Onikuma]({{ "/assets/images/Onikuma.jpg" | relative_url }})
 
-### Getting to meet Alexander Bennett (7th Dan, Kyoshi)
+### My first ippon in Nito against Alex Bennett of all people!
 
 ![Kelly_Nito]({{ "/assets/images/Kelly_Nito.jpg" | relative_url }})
 
-### Definition lists can be used with HTML syntax.
+### Getting to meet Alex Bennett (7th Dan, Kyoshi) and Hiro Imafuji (7th Dan, Renshi)
+
+![Great_Sensei]({{ "/assets/images/Bennett_Imafuji.jpeg" | relative_url }})
+
+### See you at the dojo!
 
 <dl>
 <dt>Name</dt>
-<dd>Kratos</dd>
-<dt>Born</dt>
-<dd>early-to-mid 500s B.C.E</dd>
-<dt>Birthplace</dt>
-<dd>Sparta, Greece</dd>
-<dt>Color</dt>
-<dd>White; ash fused to his skin</dd>
+<dd>Kelly Corwin</dd>
+<dt>Dojo</dt>
+<dd>Zen Bu Kan - School of Japanese Swordsmanship</dd>
+<dt>Location</dt>
+<dd>777 South 1300 East, Salt Lake City, UT 84102</dd>
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+“One-thousand days of training to forge, ten-thousand days of training to refine. But a [Kendo] bout is decided in a split second.”
 ```

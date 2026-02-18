@@ -1,4 +1,4 @@
-title: This Is "The Way"
+title: This is "The Way"
 email: kellycorwin@mail.weber.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Imagine walking into a room with people screaming, wearing strange clothes, hitting each other with sticks. 
@@ -7,6 +7,6 @@ logo: "/assets/images/Kelly_Corwin.jpeg"
 baseurl: "my-first-website-Kelly-Corwin" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/chirpy  # minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
