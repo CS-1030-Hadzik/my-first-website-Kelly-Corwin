@@ -7,7 +7,7 @@ This website is dedicated to the many great teachers and fellow kenshi I've had 
 
 ![Menjo]({{ "/assets/images/Menjo.jpeg" | relative_url }})
 
-[My_Nidan_Exam](https://youtu.be/GbLVNVQrdx4?si=h-ko71h8eOXg4G-y).
+[My Nidan Exam - YouTube](https://youtu.be/GbLVNVQrdx4?si=h-ko71h8eOXg4G-y).
 
 “Today is victory over yourself of yesterday; tomorrow is your victory over lesser men.”
 ― Miyamoto Musashi, 'Gorin no Sho' The Book of Five Rings
@@ -15,7 +15,7 @@ This website is dedicated to the many great teachers and fellow kenshi I've had 
 # About Me
 
 The broad stroke is that I'm a Software Engineer currently pursinging a CS major at Weber State University.
-Happily married father of three boys, avid retro and AAA gamer, and practionor of both Kendo and Iaido.
+Happily married to the best wife, raising three boys, avid retro and AAA gamer, and practionor of both Kendo and Iaido.
 
 ## One of many great quotes from Alan Watts:
 
