@@ -4,6 +4,7 @@ title: "Kelly's Kendo Journey"
 ---
 
 This website is dedicated to the many great teachers and fellow kenshi I've had the honor of crossing swords with. Domo arigato gozaimasu.
+
 ![Menjo]({{ "/assets/images/Menjo.jpeg" | relative_url }})
 
 [My_Nidan_Exam](https://youtu.be/GbLVNVQrdx4?si=h-ko71h8eOXg4G-y).
@@ -16,7 +17,7 @@ This website is dedicated to the many great teachers and fellow kenshi I've had 
 The broad stroke is that I'm a Software Engineer currently pursinging a CS major at Weber State University.
 Happily married father of three boys, avid retro and AAA gamer, and practionor of both Kendo and Iaido.
 
-## One of many great quotes from Alan Watts
+## One of many great quotes from Alan Watts:
 
 > "You didn't come into this world... you came out of it. 
 Just as an apple tree apples, the universe peoples, and you are one of those peoplings. 
@@ -68,13 +69,13 @@ end
 *   Dō (胴) - Strike to the torso.
 *   Tsuki (突) - Thrust to the throat. 
 
-##### Major components of 'Yuko-datotsu'
+#### Major components of 'Yuko-datotsu'
 
-1.  Ki-Ken-Tai-Icchi (Spirit, Sword, and Body as One): The mental, technical, and physical components must unify at the moment of impact.
+1.  Ki-Ken-Tai-Icchi (Spirit, Sword, and Body as One): The mental, technical, and physical components unified at the moment of impact.
 2.  Datotsu-bui (Valid Target Area): The strike must land on the designated, protected areas.
-3.  Zanshin (Awareness): A state of continued, physical, and mental alertness and readiness to make a subsequent attack after the initial strike. 
+3.  Zanshin (Awareness): A state of continued, physical, and mental alertness and readiness to attack again at a moment's notice. 
 
-###### Criteria for scoring 'Ippon'
+#### Criteria for scoring 'Ippon'
 
 | Components             | Requirements           |
 |:----------------------:|:----------------------:|
@@ -87,16 +88,15 @@ end
 
 ![Onikuma]({{ "/assets/images/Onikuma.jpg" | relative_url }})
 
-### My first ippon in Nito against Alex Bennett of all people!
+### My first ippon in Nito, against Alex Bennett of all people!
 
 ![Kelly_Nito]({{ "/assets/images/Kelly_Nito.jpg" | relative_url }})
 
-### Getting to meet Alex Bennett (7th Dan, Kyoshi) and Hiro Imafuji (7th Dan, Renshi)
+### Finally getting to meet both Alex Bennett (7th Dan, Kyoshi) and Hiro Imafuji (7th Dan, Renshi)
 
 ![Great_Sensei]({{ "/assets/images/Bennett_Imafuji.jpeg" | relative_url }})
 
 ### See you at the dojo!
-
 <dl>
 <dt>Name</dt>
 <dd>Kelly Corwin</dd>

@@ -1,7 +1,7 @@
 title: This is "The Way"
 email: kellycorwin@mail.weber.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Imagine walking into a room with people screaming, wearing strange clothes, hitting each other with sticks. 
+  Imagine walking into a room, people screaming, wearing strange clothes, hitting each other with sticks. 
   Sound fun? Well it is, and after years of training and persistence I've become marginally good at it. Always room for improvement, but that's the point. 
 logo: "/assets/images/Kelly_Corwin.jpeg"
 baseurl: "my-first-website-Kelly-Corwin" # the subpath of your site, e.g. /blog
