@@ -119,11 +119,11 @@ puts "Cloud: #{cloud[:hp]} HP, Sephiroth: #{sephiroth[:hp]} HP"
 
 ### Me in my "Onikuma" zekken
 
-![Onikuma](/assets/images/Onikuma.jpg)
+![Onikuma](/docs/bundle/assets/images/Onikuma.jpg)
 
 ### My first time fighting Alexander Bennett PhD (7th Dan, Kyoshi)
 
-![Nito-Ryu Kendo](/assets/images/Kelly_Nito.jpg)
+![Nito-Ryu Kendo](/docs/bundle/assets/images/Kelly_Nito.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
