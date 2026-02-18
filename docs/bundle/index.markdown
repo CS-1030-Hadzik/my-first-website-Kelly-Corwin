@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Kelly's CS 1030 Website"
+title: "Kelly's Kendo Journey"
 ---
 
 This is my website

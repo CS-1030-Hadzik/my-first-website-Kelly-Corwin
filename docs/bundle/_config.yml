@@ -1,14 +1,9 @@
-title: Kelly's CS 1030 Website
+title: Why's Kelly Doing Kendo?
 email: kellycorwin@mail.weber.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  When I first started practicing Kendo and Iaido it was with a layman's enthusiasm.
-  Life caught up and I stopped attending, but I picked up my sword again in earnest in 2015. 
-  I began training regularly, practiced at home during the pandemic, and now I'm leading other students. 
-  At the moment I hold the rank of Nidan, equivalent to 2nd degree black-belt in other disiplines. 
-  This past summer I attended a seminar where I got to meet Alexander Bennett PhD and began practicing
-  a two sword style called Nito-Ryu inspired by Miyamoto Musashi. I have taken to it quite well
-  and my goal is to compete in my next tournament using this style to further hone my skills. 
-logo: "/assets/images/Kelly_Corwin.jpeg"
+  My first experience with Kendo was pretty typical. A room fool of people wearing weird clothes, shouting like maniacs, hitting each other with sticks. First impression is usually "What the hell am I even looking at?". 
+  Over a decade later I am proudly one of those weirdos, and I'm happy to explain why we do what we don. 
+logo: "/assets/images/Onikuma.jpg"
 baseurl: "my-first-website-Kelly-Corwin" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
