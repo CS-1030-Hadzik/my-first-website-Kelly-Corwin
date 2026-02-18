@@ -14,8 +14,8 @@ This website is dedicated to the many great teachers and fellow kenshi I've had 
 
 # About Me
 
-The broad stroke is that I'm a Software Engineer currently pursinging a CS major at Weber State University.
-Happily married to the best wife, raising three boys, avid retro and AAA gamer, and practionor of both Kendo and Iaido.
+The broad stroke is that I'm a Software Engineer pursinging a CS major at Weber State University.
+I'm married to the world's best wife, raising three boys, an avid retro and AAA gamer, and practionor of both Kendo and Iaido.
 
 ## One of many great quotes from Alan Watts:
 
