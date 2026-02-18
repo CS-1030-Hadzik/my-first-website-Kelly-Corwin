@@ -3,21 +3,19 @@ layout: default
 title: "Kelly's Kendo Journey"
 ---
 
-This is my website
+This website is dedicated to the many great teachers and fellow kenshi I've had the honor of crossing swords with. 
 
 [LinkedIn](https://www.linkedin.com/in/kelly-corwin-36449a165/).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+“Today is victory over yourself of yesterday; tomorrow is your victory over lesser men.”
+― Miyamoto Musashi, A Book of Five Rings: The Classic Guide to Strategy
 
 # About Me
 
-I'm the dude playin' a dude disquised as another dude... 
-I'm also a Software Engineer currently pursinging a CS major at Weber State University.
-Married father of three boys, avid retro and AAA gamer, and practionor of both Kendo and Iaido.
+The broad stroke is that I'm a Software Engineer currently pursinging a CS major at Weber State University.
+Happily married father of three boys, avid retro and AAA gamer, and practionor of both Kendo and Iaido.
 
-## Quote from the late, great Alan Watts
+## One of many great quotes from Alan Watts
 
 > "You didn't come into this world... you came out of it. 
 Just as an apple tree apples, the universe peoples, and you are one of those peoplings. 
@@ -26,12 +24,7 @@ Looking out at a world that's over there full of objects and others, but that's 
 In reality, there's no line where you stop and the world begins. 
 You are continuous with it like a wave is with the ocean. 
 It's a process, a happening, a flow, and so are you.
-You are not a static thing, you are a verb disguised as a noun. 
-A whirl of consciousness, feelings, memories, all shimmering like light on water. 
-When you were born the universe didn't make a mistake. 
-It wasn't trying to test you, fix you, or mold you into something better. 
-It was expressing itself as you, and what a peculiar, delightful, and intricate expression you are.
-When you look at yourself in this way perhaps you'll realize the miracle you've always been."
+You are not a static thing, you are a verb disguised as a noun."
 
 ### JavaScript and Ruby examples
 
