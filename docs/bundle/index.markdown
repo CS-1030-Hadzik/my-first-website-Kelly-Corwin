@@ -9,7 +9,9 @@ This website is dedicated to the many great teachers and fellow kenshi I've had 
 
 [My Nidan Exam - YouTube](https://youtu.be/GbLVNVQrdx4?si=h-ko71h8eOXg4G-y).
 
-“Today is victory over yourself of yesterday; tomorrow is your victory over lesser men.”
+[Additional Info Page]({{ "/about/" | relative_url }})
+
+"Today is victory over yourself of yesterday; tomorrow is your victory over lesser men.”
 ― Miyamoto Musashi, 'Gorin no Sho' The Book of Five Rings
 
 # About Me
