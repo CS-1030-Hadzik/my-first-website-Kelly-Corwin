@@ -100,6 +100,14 @@ code, pre {
   .err { color: #f44747; }                                     // error
 }
 
+section, #container, .inner {
+  background-color: #1a1a2e;
+}
+
+section img {
+  max-width: 250px;
+}
+
 footer {
   color: #888;
 }
