@@ -75,6 +75,31 @@ code, pre {
   border-color: #333;
 }
 
+// Syntax highlighting - IDE dark theme colors
+.highlight {
+  .c, .c1, .cm, .cs { color: #6a9955; font-style: italic; } // comments
+  .k, .kd, .kn, .kp, .kr { color: #569cd6; }                // keywords (const, function, def, etc.)
+  .kc { color: #569cd6; }                                     // keyword constant (true, false, nil)
+  .kt { color: #4ec9b0; }                                     // keyword type
+  .s, .s1, .s2, .sb, .sc, .sh { color: #ce9178; }            // strings
+  .si { color: #d16969; }                                      // string interpolation
+  .sr { color: #d16969; }                                      // regex
+  .na { color: #9cdcfe; }                                      // attribute name
+  .nb { color: #dcdcaa; }                                      // builtin (console, puts, etc.)
+  .nf, .fm { color: #dcdcaa; }                                 // function names
+  .nc { color: #4ec9b0; }                                      // class names
+  .nn { color: #4ec9b0; }                                      // module/namespace
+  .no { color: #4fc1ff; }                                      // constants
+  .nx { color: #9cdcfe; }                                      // other names
+  .o, .ow { color: #d4d4d4; }                                 // operators
+  .p { color: #d4d4d4; }                                       // punctuation
+  .mi, .mf, .mh, .mo, .il { color: #b5cea8; }                // numbers
+  .ss { color: #ce9178; }                                      // symbols
+  .vi, .vg, .vc { color: #9cdcfe; }                           // variables
+  .nl { color: #9cdcfe; }                                      // label
+  .err { color: #f44747; }                                     // error
+}
+
 footer {
   color: #888;
 }
