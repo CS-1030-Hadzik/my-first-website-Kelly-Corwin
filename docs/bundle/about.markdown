@@ -6,7 +6,7 @@ permalink: /about/
 
 The purpose of Kendo ("Way of the Sword") is to discipline the human character. The modern world doesn't need swordsman, but it does need people of moral character. Through Kendo you mold the mind and body, and cultivate a vigorous spirit. It emphasizes a lifelong asperation to self-cultivate, respect others, to be courtious and sincere, and aim to making meaninful impacts on others so that they too may do the same.  
 
-<img src="{{ "/assets/images/ZBK_Zekken_v2.png" | relative_url }}" alt="ZenBuKan" width="250">
+<img src="{{ "/assets/images/ZBK_Zekken_v2.png" | relative_url }}" alt="ZenBuKan" width="500">
 
 Valuable resources:
 [AJKF(Japanese)](https://www.kendo.or.jp/en/)
